@@ -1,6 +1,10 @@
 
 # THE GREAT HACK - Techfluence Hackathon
 
+ ```
+ 🏆 RUNNERS UP 🏆
+ ```
+
 ## Problem Statement
 
 How can we utilize wearable devices and sensors to monitor health indicators like heart rate, blood pressure, and glucose levels, and notify users or caregivers of any abnormalities or emergencies?
@@ -10,25 +14,25 @@ How can we utilize wearable devices and sensors to monitor health indicators lik
 - [Problem Statement](#problem-statement)
 - [Content](#-content)
 - [Team](#-team)
-- [Features](#-features)
+<!-- - [Features](#-features) -->
 - [Tech Stack](#-tech-stack)
 - [API Reference](#-api-reference)
 - [Environment Variables](#-environment-variables)
 - [Run Locally](#-run-locally)
 - [Documentation](#-documentation)
-- [Screen-Shots](#-screen-shots)
+<!-- - [Screen-Shots](#-screen-shots) -->
 
 ### 👨‍👦‍👦 Team
 
 - `Atharva Parkhe` -  *Python* -   [LinkedIn](https://www.linkedin.com/in/atharva-parkhe-3283b2202/), [GitHub](https://github.com/atharvparkhe), [Instagram](https://www.instagram.com/atharvparkhe/) - Backend Developer
 
-- `Madem Greeshma` -  *JavaScript* - [LinkedIn](https://www.linkedin.com/in/m-greeshma/), [GitHub](https://github.com/Greeshma2903), [Instagram](https://www.instagram.com/prathamshankwalker/)  -  Frontend Developer
+- `Medam Greeshma` -  *JavaScript* - [LinkedIn](https://www.linkedin.com/in/m-greeshma/), [GitHub](https://github.com/Greeshma2903), [Instagram](https://www.instagram.com/prathamshankwalker/)  -  Frontend Developer
 
 - `Pratham Shankhwalker` -  *Python* - [LinkedIn](https://www.linkedin.com/in/pratham-shankwalker-ab2899205/), [GitHub](https://github.com/prathamshankwalker), [Instagram](https://www.instagram.com/prathamshankwalker/)  -  Machine Learning (ML) Developer
 
 
-### 📋 Features
-
+<!-- ### 📋 Features
+ -->
 <!-- - **Resource Projection :** The admin should be able to add hrs for Resources wrt to project - So each resource will have multiple projects assigned to them in a particular week and that will have the hrs - There should be a tracking of which admin has made which changes in the system.
 
 - **Leave Management :** Here the admin should be able to add leaves (half or full day) or holiday for the resources on a day to day basis - Once a leave is marked the capacity of the member should be reduced accordingly - There should be an interface where the admin can visualise the entire team's availability. -->
